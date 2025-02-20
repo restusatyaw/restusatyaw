@@ -1,75 +1,50 @@
-# Nuxt Minimal Starter
+Berikut adalah README.md untuk GitHub Anda:
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+```markdown
+# Restu Satyawan's Personal Website
 
-## Setup
+Selamat datang di repositori ini! 🎉
 
-Make sure to install dependencies:
+Ini adalah kode sumber untuk website pribadi saya yang dibangun dengan **Nuxt.js 3**.  
+Website ini dapat diakses di: [restusatyaw-88294.web.app](https://restusatyaw-88294.web.app/)
 
-```bash
-# npm
-npm install
+## Teknologi yang Digunakan
+- **Nuxt.js 3** - Framework Vue.js modern untuk SSR dan SSG
+- **Tailwind CSS** - Untuk styling yang cepat dan fleksibel
+- **Firebase Hosting** - Untuk deployment yang mudah dan cepat
 
-# pnpm
-pnpm install
+## Fitur Utama
+- Profil dan portofolio saya
+- Informasi tentang proyek yang telah saya kerjakan
+- Kontak dan sosial media
 
-# yarn
-yarn install
+## 🚀 Cara Menjalankan Secara Lokal
+1. Clone repositori ini:
+   ```sh
+   git clone https://github.com/restusatyaw/restusatyaw.git
+   ```
+2. Masuk ke folder proyek:
+   ```sh
+   cd nama-repo
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Jalankan dalam mode pengembangan:
+   ```sh
+   npm run dev
+   ```
+5. Buka di browser: `http://localhost:3000`
 
-# bun
-bun install
+## ✨ Kontribusi
+Jika ingin berkontribusi atau memberikan masukan, silakan buat issue atau pull request. Terima kasih! 😊
+
+---
+
+📌 **Website:** [restusatyaw-88294.web.app](https://restusatyaw-88294.web.app/)  
+📧 **Email:** your-email@example.com  
+🔗 **GitHub:** [github.com/restusatyaw](https://github.com/restusatyaw)  
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Sesuaikan `nama-repo` dengan nama repository Anda. Jika ada tambahan atau perubahan, beri tahu saya! 🚀

@@ -1,6 +1,6 @@
 <template>
 <div class="h-full p-8">
-        <div class="bg-white rounded-lg w-1/2 mx-auto my-auto shadow-xl pb-8">
+        <div class="bg-white rounded-lg  w-full xs:w-full sm:w-full md:w-[60%] lg:w-1/2 mx-auto my-auto shadow-xl pb-8">
             <div x-data="{ openSettings: false }" class="absolute right-12 mt-4 rounded">
                 
             </div>

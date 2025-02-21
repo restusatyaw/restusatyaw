@@ -1,50 +1,21 @@
-Berikut adalah README.md untuk GitHub Anda:
+# Hi there! I'm Restu Satya W 👋
 
-```markdown
-# Restu Satyawan's Personal Website
+## 🚀 About Me
+I'm a passionate **Web Developer** who enjoys building scalable and high-performance web applications. I specialize in **Laravel, MySQL, React, Next.js, and Tailwind CSS**. I love working with **structured and relational data**, and I often use **UUIDs** in my projects.
 
-Selamat datang di repositori ini! 🎉
+## 🔨 Tech Stack
+- **Backend:** Laravel, MySQL, REST API
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Tools & Platforms:** Windows, GitHub, Firebase, Docker
 
-Ini adalah kode sumber untuk website pribadi saya yang dibangun dengan **Nuxt.js 3**.  
-Website ini dapat diakses di: [restusatyaw-88294.web.app](https://restusatyaw-88294.web.app/)
+## 🌱 Open Source Projects
+I actively contribute to open-source projects and maintain my own packages. One of my notable projects:
+- 🔧 **[pattren-maker](https://github.com/restusatyaw/pattren-maker)** - A Laravel package to automate Service, Repository, DTO, and Seeder generation.
 
-## Teknologi yang Digunakan
-- **Nuxt.js 3** - Framework Vue.js modern untuk SSR dan SSG
-- **Tailwind CSS** - Untuk styling yang cepat dan fleksibel
-- **Firebase Hosting** - Untuk deployment yang mudah dan cepat
+## 📫 Connect with Me
+- 🌐 Website: [restusatyaw-88294.web.app](https://restusatyaw-88294.web.app/)
+- 💼 GitHub: [github.com/restusatyaw](https://github.com/restusatyaw)
+- 📝 LinkedIn: [linkedin.com/in/restusatyaw](https://www.linkedin.com/in/restusatyaw/)
 
-## Fitur Utama
-- Profil dan portofolio saya
-- Informasi tentang proyek yang telah saya kerjakan
-- Kontak dan sosial media
-
-## 🚀 Cara Menjalankan Secara Lokal
-1. Clone repositori ini:
-   ```sh
-   git clone https://github.com/restusatyaw/restusatyaw.git
-   ```
-2. Masuk ke folder proyek:
-   ```sh
-   cd nama-repo
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Jalankan dalam mode pengembangan:
-   ```sh
-   npm run dev
-   ```
-5. Buka di browser: `http://localhost:3000`
-
-## ✨ Kontribusi
-Jika ingin berkontribusi atau memberikan masukan, silakan buat issue atau pull request. Terima kasih! 😊
-
----
-
-📌 **Website:** [restusatyaw-88294.web.app](https://restusatyaw-88294.web.app/)  
-📧 **Email:** your-email@example.com  
-🔗 **GitHub:** [github.com/restusatyaw](https://github.com/restusatyaw)  
-```
-
-Sesuaikan `nama-repo` dengan nama repository Anda. Jika ada tambahan atau perubahan, beri tahu saya! 🚀
+## ⚡ Fun Fact
+I enjoy experimenting with new technologies and optimizing database queries to improve performance!
